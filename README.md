@@ -1,0 +1,16 @@
+fertilizer-system/
+│
+├── backend/
+│   ├── app.py
+│   ├── model_train.py
+│   ├── crop_dataset.csv
+│   ├── crop_model.pkl
+│   ├── fertilizer.db
+│
+├── frontend/
+│   ├── index.html
+│   ├── dashboard.html
+│   └── img_crop.jpg
+│
+├── requirements.txt
+├── README.md
